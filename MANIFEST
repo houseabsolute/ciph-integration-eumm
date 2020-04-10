@@ -2,5 +2,6 @@ MANIFEST
 META.json
 META.yml
 Makefile.PL
+README.md
 lib/CIPH/Integration/EUMM.pm
 t/trace.t
